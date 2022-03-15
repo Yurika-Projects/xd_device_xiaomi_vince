@@ -12,4 +12,4 @@ android_app {
     certificate: "platform",
     privileged: true,
     platform_apis: true,
-}
+};
