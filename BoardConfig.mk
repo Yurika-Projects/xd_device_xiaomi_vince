@@ -15,7 +15,7 @@ DEVICE_PATH := device/xiaomi/vince
 TARGET_SCREEN_DENSITY := 440
 
 # Kernel
-TARGET_KERNEL_CONFIG := vince_defconfig
+TARGET_KERNEL_CONFIG := vince-perf_defconfig
 
 # Partitions
 BOARD_CACHEIMAGE_PARTITION_SIZE := 268435456
